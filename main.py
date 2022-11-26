@@ -46,9 +46,8 @@ DSFHSDKAJFHSKJLFHSDKJLFHSDFKsdfsadfsadfsdf
 SDHJKFHSAKDJFgkgjjhhjg
 SDAKFHJASGDFKgjfhgjfghjkhlkjhlkjhj
 dfjghkdfjkghdsfgsdfgdsfgdsfgtyigyguijhg
-sdfgsdfgsdfgsdfsdsdafasdfasdfcxvxcvxcvxcvxcvcxvxcvxcv
-fghfghfghfghsdfsdfdsffjhkghgjgfjhhgfhjg
-"""
+sdfgsdfgsdfgsdfsdsdafasdfasdfcxvxcvxcvxcvxcvcxvxcvxcvfghfghfgh
+fghfghfghfghsdfsdfdsffjhkghgjgfjhhgfhjgdfgdfgdfgdfg
 
 print(
     """
